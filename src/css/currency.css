@@ -1,0 +1,77 @@
+
+.currency-div{
+    background-color: rgba(0, 0, 0, 0.611);
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 200px;
+    gap: 10px;
+    row-gap: 15px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 5px black;
+    
+}
+
+.currency-container{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    gap: 15px;
+}
+
+
+.currency-entry{
+    height: 40px;
+    width: 50px;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 0 0 10px black;
+    text-align: center;
+}
+
+.from-currency-option{
+    height: 40px;
+    width: 50px;
+    border-radius: 8px;
+    border: none;
+    box-shadow: 0 0 10px black;
+    margin-right: 20px;
+}
+
+
+.to-currency-option{
+    height: 40px;
+    width: 50px;
+    border-radius: 8px;
+    border: none;
+    box-shadow: 0 0 10px black;
+    margin-left: 20px;
+}
+
+
+.currency-output{
+    height: 40px;
+    width: 150px;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 0 0 10px black;
+    text-align: center;
+}
+
+
+.convert-button{
+    color: white;
+    background-color: rgb(102, 101, 101);
+    font-size: 15px;
+    border: none;
+    border-radius: 7px;
+    padding: 5px;
+    box-shadow:  0 0 10px black;
+}
+
+.convert-button:hover{
+    cursor: pointer;
+    background-color: rgb(110, 25, 25);
+}
