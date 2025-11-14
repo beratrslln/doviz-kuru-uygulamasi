@@ -18,7 +18,7 @@ Projeyi Bilgisayarda Çalıştırma
 
 1.  **Projeyi klonlayın:**
     ```bash
-    git clone [https://github.com/beratsrsln/doviz-kuru-uygulamasi.git](https://github.com/beratsrsln/doviz-kuru-uygulamasi.git)
+    git clone https://github.com/beratrslln/doviz-kuru-uygulamasi.git
     ```
 
 2.  **Proje klasörüne gidin:**
